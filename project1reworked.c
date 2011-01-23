@@ -361,8 +361,8 @@ char** parsePath()
 		}*/		
 	return paths;
 }				
-				
-				
+
+// this is a test comment for git testing	
 				
 				
 				
